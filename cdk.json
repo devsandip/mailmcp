@@ -1,0 +1,5 @@
+{
+  "app": "npx tsx infra/app.ts",
+  "watch": { "include": ["src/**", "infra/**"] },
+  "context": {}
+}

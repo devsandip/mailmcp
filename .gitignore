@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+cdk.out/
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage/
+*.log
+/scratch/
+
+# Session resume files
+/RESUME.md
+/resume/
